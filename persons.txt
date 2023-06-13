@@ -1,0 +1,80 @@
+Sira: 0
+Adi: Samir Farajov
+Email: samirfarajov225@gmaille.com
+
+Sira: 0
+Adi: Zarina Quliyeva
+Email: zarinaquliyeva575@gmaille.com
+
+Sira: 0
+Adi: Gunel Rahimova
+Email: gunelrahimova21@gmaille.com
+
+Sira: 0
+Adi: Vugar Nasirov
+Email: vugarnasirov358@gmaille.com
+
+Sira: 0
+Adi: Javid Safarov
+Email: javidsafarov347@gmaille.com
+
+Sira: 0
+Adi: Gulshan Nabiyeva
+Email: gulshannabiyeva433@gmaille.com
+
+Sira: 0
+Adi: Vusal Mahmudov
+Email: vusalmahmudov789@gmaille.com
+
+Sira: 0
+Adi: Ziba Abdullayeva
+Email: zibaabdullayeva187@gmaille.com
+
+Sira: 0
+Adi: Sabina Mammadaliyeva
+Email: sabinamammadaliyeva897@gmaille.com
+
+Sira: 0
+Adi: Aygun Ibrahimova
+Email: aygunibrahimova32@gmaille.com
+
+Sira: 0
+Adi: Zarina Huseynova
+Email: zarinahuseynova323@gmaille.com
+
+Sira: 0
+Adi: Sevda Rahimova
+Email: sevdarahimova14@gmaille.com
+
+Sira: 0
+Adi: Fidan Hasanova
+Email: fidanhasanova438@gmaille.com
+
+Sira: 0
+Adi: Nazrin Orujova
+Email: nazrinorujova927@gmaille.com
+
+Sira: 0
+Adi: Nergiz Mirzayeva
+Email: nergizmirzayeva61@gmaille.com
+
+Sira: 0
+Adi: Orxan Hajiyev
+Email: orxanhajiyev885@gmaille.com
+
+Sira: 1
+Adi: Rauf Aliyev
+Email: raufaliyev529@gmaille.com
+
+Sira: 1
+Adi: Elshad Quliyev
+Email: elshadquliyev545@gmaille.com
+
+Sira: 1
+Adi: Zarina Orujova
+Email: zarinaorujova620@gmaille.com
+
+Sira: 1
+Adi: Gulshan Mirzayeva
+Email: gulshanmirzayeva537@gmaille.com
+
